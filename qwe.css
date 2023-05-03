@@ -1,0 +1,11 @@
+.cnt {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+.typhoonborder {
+    border: 5px outset #373C43;
+    border-color: #373C43;
+    background-color: #AFDCEC;
+  }
