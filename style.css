@@ -916,7 +916,7 @@ section .small_head h2 {
 .home_page2 .logo_circle::after {
     width: 100%;
     height: 56px;
-    content: "";
+    content: url("arr_logo.png");
     display: block;
     position: absolute;
     z-index: 1;
