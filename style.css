@@ -922,7 +922,7 @@ section .small_head h2 {
     z-index: 1;
     bottom: -65px;
     left: 0;
-    background-image: url('../arr_logo.png');
+    background-image: url('arr_logo.PNG');
     background-repeat: no-repeat;
     background-position: bottom center;
     background-size: 100% 100%;
